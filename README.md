@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eftosde
 - 👀 I’m interested in the Kindgom of a thousand
-- 🌱 I’m currently learning vsti/mpt
+- 🌱 I’m currently utilising vsti/mpt
 - 💞️ I’m looking to collaborate with no one 
 - 📫 How to reach me spam@eftos.de
 
